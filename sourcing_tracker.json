@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "last_synced": "2026-04-15",
+    "last_gmail_sync": "2026-04-15",
+    "sheet_url": "https://docs.google.com/spreadsheets/d/1BHg0HxMa31Xpd6gb1bLMDlDmzmjw3QMMz5B8pjfC4Ac/export?format=csv&gid=367867264",
+    "sheet_link": "https://docs.google.com/spreadsheets/d/1BHg0HxMa31Xpd6gb1bLMDlDmzmjw3QMMz5B8pjfC4Ac/edit?gid=367867264#gid=367867264"
+  },
+  "status_taxonomy": [
+    "Not Started",
+    "Outreach Sent",
+    "Awaiting Response",
+    "NDA Sent",
+    "NDA Acknowledged",
+    "NDA Signed",
+    "Catalog Requested",
+    "Catalog Received",
+    "Quote Requested",
+    "Quote Received",
+    "Follow-Up Needed",
+    "On Hold",
+    "Closed"
+  ],
+  "vendors": [
+    {
+      "id": "tabletop_diffusion",
+      "source": "Tabletop Diffusion",
+      "category": "Ceramic",
+      "relevant_skus": "Plateware",
+      "contact_email": "aderveloy@tabletopdiffusion.com",
+      "contact_name": "Alexandre Derveloy",
+      "contact_cc": [
+        "chaumesser@tabletopdiffusion.com",
+        "jake@madeincookware.com"
+      ],
+      "outreach_date": "2026-04-15",
+      "status": "NDA Sent",
+      "last_email_date": "2026-04-15",
+      "last_email_subject": "NDA Agreement: Made In <> Table Top Diffusion",
+      "last_email_snippet": "We are looking forward to sharing more details on the chef collaboration project and beginning the sampling process with you. Before doing so, we ask for the attached NDA to be reviewed...",
+      "days_since_outreach": 0,
+      "next_action": "Follow up if NDA not signed within 2 business days (by Apr 17)",
+      "next_action_due": "2026-04-17",
+      "notes": "Existing relationship \u2014 prior thread on 'Road Map - Retail Offer - Tableware' since Mar 2026. Samples previously sent. NDA is gate to sharing chef collab designs and proceeding to sampling."
+    },
+    {
+      "id": "idfine",
+      "source": "IDFine",
+      "category": "Ceramic",
+      "relevant_skus": "Plateware",
+      "contact_email": "agutierrez@idfine.com.tr",
+      "contact_name": "Alejandro Gutierrez",
+      "contact_cc": [
+        "jake@madeincookware.com"
+      ],
+      "outreach_date": "2026-04-15",
+      "status": "NDA Acknowledged",
+      "last_email_date": "2026-04-15",
+      "last_email_subject": "Re: NDA Agreement: Made In <> IDFine",
+      "last_email_snippet": "Hello Bo I will get it signed and sent back. Looking forward to seeing designs.",
+      "days_since_outreach": 0,
+      "next_action": "Monitor inbox for signed NDA. Follow up if not received by Apr 17.",
+      "next_action_due": "2026-04-17",
+      "notes": "Most advanced relationship \u2014 samples already shipped (Mar 10). Alejandro replied same day confirming NDA will be signed. Once signed, proceed to share designs and request formal quote."
+    },
+    {
+      "id": "lc_glass",
+      "source": "LC Glass",
+      "category": "Glassware",
+      "relevant_skus": "Drinkware",
+      "contact_email": "sooste@lcglass.com",
+      "contact_name": "Sonja Oosterom",
+      "contact_cc": [
+        "paulo.figueiredo@lcglass.com",
+        "jake@madeincookware.com"
+      ],
+      "outreach_date": "2026-04-15",
+      "status": "NDA Sent",
+      "last_email_date": "2026-04-15",
+      "last_email_subject": "Re: [EXTERNAL] Nice meeting you and samples!",
+      "last_email_snippet": "Thank you for the follow ups - we would like to move forward with beginning sampling and sharing next steps in the process. Before doing so, we ask for the attached NDA to be reviewed...",
+      "days_since_outreach": 0,
+      "next_action": "Follow up if NDA not signed within 2 business days (by Apr 17)",
+      "next_action_due": "2026-04-17",
+      "notes": "Jake has been primary contact on glassware thread since Mar 2026. Glassware samples were shared and well-received in chef meeting. Bo re-engaged today with NDA as next step. CC: Paulo Figueiredo."
+    }
+  ]
+}
